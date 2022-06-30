@@ -97,7 +97,7 @@ a:hover {
 }
 
 .tm-clr {
-  color: #bd2130;
+  color: #4361ee;
 }
 
 .bg-li {
@@ -600,7 +600,7 @@ a.logo-footer:hover {
 }
 
 .social-icons-footer ul li a span {
-  color: #bd2130;
+  color: #4361ee;
   margin: 0 8px;
   font-size: 16px;
 }
@@ -662,7 +662,7 @@ a.button-style-3 {
 /* blog */
 .news-grids h4 {
   font-size: 23px;
-  color: #bd2130;
+  color: #560bad;
   letter-spacing: 1px;
 }
 
@@ -672,7 +672,7 @@ a.button-style-3 {
   font-weight: 700;
   letter-spacing: 3px;
   font-size: 14px;
-  background: #bd2130;
+  background: #4361ee;
   border: none;
   text-transform: uppercase;
   -webkit-border-radius: 4px;
